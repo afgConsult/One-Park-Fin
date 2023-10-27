@@ -68,19 +68,19 @@ order by dt.industry_id;
 
 #### Total Funded Amount by Fiscal Quarter
 
-<img src="https://github.com/afgConsult/One-Park-Fin/blob/main/Graphs_and_Figures/jr_da_test_data_q3quart_results.png?raw=true" width=50% height=50%>
+<img src="https://github.com/afgConsult/One-Park-Fin/blob/main/Graphs_and_Figures/jr_da_test_data_q3tquart_results.png?raw=true" width=50% height=50%>
 
 * The graph "Total Funded Amount by Fiscal Quarter" has the dollar amount of all Funds along the y axis and the fiscal quarters between 2018 to 2020 along the x axis. 
 
 #### Number of Funds Funded by Fiscal Quarter
 
-<img src="https://github.com/afgConsult/SampleData/blob/main/jr_da_test_data_q3cquart_results.png?raw=true" width=50% height=50%>
+<img src="https://github.com/afgConsult/One-Park-Fin/blob/main/Graphs_and_Figures/jr_da_test_data_q3cquart_results.png?raw=true" width=50% height=50%>
 
 * The graph "Number of Funds by Fiscal Quarter" has the sum of funds accounts opened along the y axis and the fiscal quarters between 2018 to 2020 along the x axis. 
 
 #### Average Funded Amount by Fiscal Quarter
 
-<img src="https://github.com/afgConsult/SampleData/blob/main/jr_da_test_data_q3quart_results.png?raw=true" width=50% height=50%>
+<img src="https://github.com/afgConsult/One-Park-Fin/blob/main/Graphs_and_Figures/jr_da_test_data_q3quart_results.png?raw=true" width=50% height=50%>
 
 * The graph "Average Funded Amount by Fiscal Quarter" has the average size of a funds account opened for a given quarter along the y axis and the fiscal quarters between 2018 to 2020 along the x axis. 
 
@@ -89,19 +89,19 @@ order by dt.industry_id;
 
 #### Total Funded Amount by Year
 
-<img src="https://github.com/afgConsult/SampleData/blob/main/jr_da_test_data_q3tyear_results.png?raw=true" width=50% height=50%>
+<img src="https://github.com/afgConsult/One-Park-Fin/blob/main/Graphs_and_Figures/jr_da_test_data_q3tyear_results.png?raw=true" width=50% height=50%>
 
 * The graph "Total Funded Amount by Year" has the dollar amount of all Funds along the y axis and the years 2018 to 2020 along the x axis. 
 
 #### Number of Funds by Year
 
-<img src="https://github.com/afgConsult/SampleData/blob/main/jr_da_test_data_q3cyear_results.png?raw=true" width=50% height=50%>
+<img src="https://github.com/afgConsult/One-Park-Fin/blob/main/Graphs_and_Figures/jr_da_test_data_q3cyear_results.png?raw=true" width=50% height=50%>
 
 * The graph "Number of Funds by Year" has the sum of funds accounts opened along the y axis and the years 2018 to 2020 along the x axis.  
 
 #### Average Funded Amount by Year
 
-<img src="https://github.com/afgConsult/SampleData/blob/main/jr_da_test_data_q3year_results.png?raw=true" width=50% height=50%>
+<img src="https://github.com/afgConsult/One-Park-Fin/blob/main/Graphs_and_Figures/jr_da_test_data_q3year_results.png?raw=true"width=50% height=50%>
 
 * The graph "Average Funded Amount by Year" has the average size of a funds account opened for a given year along the y axis and the years 2018 to 2020 along the x axis.   
 
