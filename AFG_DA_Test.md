@@ -101,7 +101,7 @@ order by dt.industry_id;
 
 #### Average Funded Amount by Year
 
-<img src="https://github.com/afgConsult/One-Park-Fin/blob/main/Graphs_and_Figures/jr_da_test_data_q3year_results.png?raw=true"width=50% height=50%>
+<img src="https://github.com/afgConsult/One-Park-Fin/blob/main/Graphs_and_Figures/jr_da_test_data_q3year_results.png?raw=true" width=50% height=50%>
 
 * The graph "Average Funded Amount by Year" has the average size of a funds account opened for a given year along the y axis and the years 2018 to 2020 along the x axis.   
 
