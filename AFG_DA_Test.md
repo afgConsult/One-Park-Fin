@@ -36,7 +36,7 @@ From dbo.dealTable
 order by funded_amount DESC;
 ```
 
-![Description of the Image](https://github.com/afgConsult/SampleData/blob/main/jr_da_test_data_q1_results.png?raw=true)
+![Description of the Image](https://github.com/afgConsult/One-Park-Fin/blob/main/Graphs_and_Figures/jr_da_test_data_q1_results.png?raw=true)
 
 
 
@@ -57,7 +57,7 @@ group by dt.industry_id, it.industry_name
 order by dt.industry_id;
 ```	
 
-![Description of the Image](https://github.com/afgConsult/SampleData/blob/main/jr_da_test_data_q2_results.png?raw=true)
+![Description of the Image](https://github.com/afgConsult/One-Park-Fin/blob/main/Graphs_and_Figures/jr_da_test_data_q2_results.png)
 
 
 
@@ -68,7 +68,7 @@ order by dt.industry_id;
 
 #### Total Funded Amount by Fiscal Quarter
 
-<img src="https://github.com/afgConsult/SampleData/blob/main/jr_da_test_data_q3tquart_results.png?raw=true" width=50% height=50%>
+<img src="https://github.com/afgConsult/One-Park-Fin/blob/main/Graphs_and_Figures/jr_da_test_data_q3quart_results.png?raw=true" width=50% height=50%>
 
 * The graph "Total Funded Amount by Fiscal Quarter" has the dollar amount of all Funds along the y axis and the fiscal quarters between 2018 to 2020 along the x axis. 
 
